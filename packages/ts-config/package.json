@@ -1,5 +1,6 @@
 {
   "name": "@chilli-ds/ts-config",
   "version": "0.0.6",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "327ac26309ccc3e58d3a7c7fe95ac2240cb4bbca"
 }
