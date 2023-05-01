@@ -1,6 +1,6 @@
 {
   "name": "@chilli-ds/tokens",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -11,8 +11,8 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@chilli-ds/eslint-config": "^0.0.6",
-    "@chilli-ds/ts-config": "^0.0.6",
+    "@chilli-ds/eslint-config": "^0.0.7",
+    "@chilli-ds/ts-config": "^0.0.7",
     "eslint": "^8.39.0",
     "rimraf": "^5.0.0",
     "tsup": "^6.7.0",

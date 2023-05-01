@@ -1,6 +1,6 @@
 {
   "name": "playground",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,8 +14,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@chilli-ds/tokens": "*",
-    "@chilli-ds/react": "*",
+    "@chilli-ds/react": "^0.0.7",
+    "@chilli-ds/tokens": "^0.0.7",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@typescript-eslint/eslint-plugin": "^5.57.1",
