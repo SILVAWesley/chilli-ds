@@ -32,8 +32,7 @@ jobs:
           cmd: install
 
       - name: Generate build
-        working-directory: "./packages/playground"
-        run: borales/actions-yarn@v4
+        run: npx lerna build
 
       - name: Setup pages
         uses: actions/configure-pages@v3
