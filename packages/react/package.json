@@ -23,5 +23,8 @@
     "@chilli-ds/tokens": "^0.0.7",
     "@stitches/react": "^1.2.8"
   },
-  "gitHead": "327ac26309ccc3e58d3a7c7fe95ac2240cb4bbca"
+  "gitHead": "6bcfead7dbe9c214027045bfac5e5faf259ab1e8",
+  "publishConfig": {
+    "access": "public"
+  }
 }

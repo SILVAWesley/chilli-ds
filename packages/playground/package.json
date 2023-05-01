@@ -2,6 +2,7 @@
   "name": "playground",
   "version": "0.0.7",
   "type": "module",
+  "private": "true",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -27,5 +28,6 @@
     "serve": "^14.2.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
-  }
+  },
+  "gitHead": "6bcfead7dbe9c214027045bfac5e5faf259ab1e8"
 }
