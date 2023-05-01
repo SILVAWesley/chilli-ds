@@ -1,0 +1,4 @@
+{
+  "extends": "@chilli-ds/ts-config/main.json",
+  "include": ["src"]
+}

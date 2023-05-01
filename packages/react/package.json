@@ -1,0 +1,27 @@
+{
+  "name": "@chilli-ds/react",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "clean": "rimraf ./dist",
+    "dev": "tsup --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "devDependencies": {
+    "@chilli-ds/eslint-config": "*",
+    "@chilli-ds/ts-config": "*",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
+    "eslint": "^8.39.0",
+    "react": "^18.2.0",
+    "rimraf": "^5.0.0"
+  },
+  "dependencies": {
+    "@chilli-ds/tokens": "*",
+    "@stitches/react": "^1.2.8"
+  }
+}

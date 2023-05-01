@@ -1,0 +1,22 @@
+{
+  "name": "@chilli-ds/tokens",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "clean": "rimraf ./dist",
+    "dev": "tsup --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "devDependencies": {
+    "@chilli-ds/eslint-config": "*",
+    "@chilli-ds/ts-config": "*",
+    "eslint": "^8.39.0",
+    "rimraf": "^5.0.0",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4"
+  }
+}

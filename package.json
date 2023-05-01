@@ -1,0 +1,13 @@
+{
+  "name": "chilli-ds",
+  "version": "0.0.0",
+  "main": "index.js",
+  "private": "true",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^6.6.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
