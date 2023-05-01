@@ -1,6 +1,6 @@
 {
   "name": "@chilli-ds/react",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -11,8 +11,8 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@chilli-ds/eslint-config": "^0.0.7",
-    "@chilli-ds/ts-config": "^0.0.7",
+    "@chilli-ds/eslint-config": "^0.0.8",
+    "@chilli-ds/ts-config": "^0.0.8",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.1",
     "eslint": "^8.39.0",
@@ -20,7 +20,7 @@
     "rimraf": "^5.0.0"
   },
   "dependencies": {
-    "@chilli-ds/tokens": "^0.0.7",
+    "@chilli-ds/tokens": "^0.0.8",
     "@stitches/react": "^1.2.8"
   },
   "gitHead": "6bcfead7dbe9c214027045bfac5e5faf259ab1e8",
