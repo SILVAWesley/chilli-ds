@@ -19,7 +19,7 @@
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   },
-  "gitHead": "6bcfead7dbe9c214027045bfac5e5faf259ab1e8",
+  "gitHead": "1a3edf59f3fa70affc66dc70d051749e150746f8",
   "publishConfig": {
     "access": "public"
   }

@@ -17,7 +17,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.8.8"
   },
-  "gitHead": "6bcfead7dbe9c214027045bfac5e5faf259ab1e8",
+  "gitHead": "1a3edf59f3fa70affc66dc70d051749e150746f8",
   "publishConfig": {
     "access": "public"
   }
