@@ -32,7 +32,7 @@ jobs:
           cmd: install
 
       - name: Generate build
-        run: npx lerna build
+        run: npx lerna run build
 
       - name: Setup pages
         uses: actions/configure-pages@v3
