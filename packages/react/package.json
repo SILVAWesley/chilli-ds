@@ -1,6 +1,6 @@
 {
   "name": "@chilli-ds/react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
     "rimraf": "^5.0.0"
   },
   "dependencies": {
-    "@chilli-ds/tokens": "^0.0.2",
+    "@chilli-ds/tokens": "^0.0.3",
     "@stitches/react": "^1.2.8"
   },
   "gitHead": "66c3a20a9d547444075a3c7d28b46fb75f4c7c44"
